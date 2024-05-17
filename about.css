@@ -1,0 +1,31 @@
+.container-2{
+    position: absolute;
+    margin-top: 176px;
+    background-color: rgb(43, 226, 156);
+    height: 589px;
+    width: 1223px;
+
+}
+p1{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-left: 212px;
+    position: absolute;
+    margin-top: 131px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p2{
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-top: 227px;
+    position: absolute;
+    margin-left: 386px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    position: absolute;
+    margin-left: 463px;
+    margin-top: 45px;
+    font-size: 31px;
+    text-transform: uppercase;
+}
